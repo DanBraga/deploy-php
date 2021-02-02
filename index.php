@@ -62,7 +62,7 @@
         <div class="col-md-6 px-0">
           <h1 class="display-4 font-italic">Entenda aqui porque o Palmeiras não tem mundial</h1>
           <p class="lead my-3">51 é pinga, mas vamos ver com detalhes aqui</p>
-          <p class="lead mb-0"><a href="www.fifa.com" class="text-white font-weight-bold">Continue reading...</a></p>
+          <p class="lead mb-0"><a href="https://www.fifa.com" class="text-white font-weight-bold">Continue reading...</a></p>
         </div>
       </div>
 
