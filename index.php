@@ -76,7 +76,14 @@
               </h3>
               <div class="mb-1 text-muted">R$ 199,99</div>
               <p class="card-text mb-auto">Aproveite e compre agora uma camisa do maior time do mundo</p>
-              <a href="#">Comprar</a>
+              <a href="https://pag.ae/7WRb3vSuu" target="_blank" style="
+                font-size: 30px;
+                background: #FFFF00;
+                display: block;
+                padding: 10px;
+                border-radius: 15px;
+                margin-bottom: 20px;
+              ">Comprar</a>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="images.jfif" alt="Card image cap">
           </div>
