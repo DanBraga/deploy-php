@@ -70,12 +70,12 @@
         <div class="col-md-6">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-2 text-primary">World</strong>
+              <strong class="d-inline-block mb-2 text-primary">Aproveite a oferta</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">Compre aqui sua camisa do Corinthians</a>
               </h3>
               <div class="mb-1 text-muted">R$ 199,99</div>
-              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text mb-auto">Aproveite e compre agora uma camisa do maior time do mundo</p>
               <a href="#">Comprar</a>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="images.jfif" alt="Card image cap">
